@@ -8,7 +8,7 @@
 
 
 ### The Landscape      
-    This section explains the way in which the general health care market is an imperfect market and that, even in the context of such market imperfections, spending on drugs defies rationality. Finally,this section introduces the Pharmacy Benefit Manager, a main actor in thehealth care space and one who plays a key role in rising prices.           
+This section explains the way in which the general health care market is an imperfect market and that, even in the context of such market imperfections, spending on drugs defies rationality. Finally,this section introduces the Pharmacy Benefit Manager, a main actor in thehealth care space and one who plays a key role in rising prices.           
 
 ##### Branded Prescription Drugs      
 
