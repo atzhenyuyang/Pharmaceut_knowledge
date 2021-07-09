@@ -12,7 +12,10 @@ This section explains the way in which the general health care market is an impe
 
 ### Branded Prescription Drugs      
 arduous （艰巨的）  pediatric （儿科）  recoupment （补偿）  be subsidized by (受...资助)     insulate ... from ...（从...隔离...）  legislative（立法）               
-药物市场是一个非典型市场，信息不全面，受人物心理因素影响大      
+药物市场是一个非典型市场，信息不全面，受人物心理因素影响大       
+药厂的利润主要来源于已有药物价格的上涨，而不是新药或者增加药物销量           
+
+
 ### Rebates and Reimbursement: The Byzantine World of Drug Sales           
 
 
