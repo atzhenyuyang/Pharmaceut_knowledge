@@ -7,35 +7,35 @@
 最终，整个系统使得consumer 和 customer 受害      
 
 
-### The Landscape      
+## The Landscape      
 This section explains the way in which the general health care market is an imperfect market and that, even in the context of such market imperfections, spending on drugs defies rationality. Finally,this section introduces the Pharmacy Benefit Manager, a main actor in thehealth care space and one who plays a key role in rising prices.           
 
-##### Branded Prescription Drugs      
+### Branded Prescription Drugs      
 
-##### Rebates and Reimbursement: The Byzantine World of Drug Sales           
-
-
-###  How the Incentive Structures Drive Prices Higher          
-
-##### Why PBMs May Prefer Higher Prices         
-
-##### Why Pharmacies May Prefer Higher Prices           
-
-##### Why Insures May be Pushed Towards Higher-Priced Drugs            
-
-##### Doctors, Hispitals, and Other Medical Practitioners           
-
-##### Patients and Patient Advocacy Groups                
-
-##### The Full Landscape                 
-
-### Alligning Incentives                 
+### Rebates and Reimbursement: The Byzantine World of Drug Sales           
 
 
-##### What Won't Work          
+##  How the Incentive Structures Drive Prices Higher          
+
+### Why PBMs May Prefer Higher Prices         
+
+### Why Pharmacies May Prefer Higher Prices           
+
+### Why Insures May be Pushed Towards Higher-Priced Drugs            
+
+### Doctors, Hispitals, and Other Medical Practitioners           
+
+### Patients and Patient Advocacy Groups                
+
+### The Full Landscape                 
+
+## Alligning Incentives                 
 
 
-##### What will work ?            
+### What Won't Work          
 
 
-### Conclusion
+### What will work ?            
+
+
+## Conclusion
