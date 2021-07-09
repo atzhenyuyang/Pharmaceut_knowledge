@@ -11,7 +11,8 @@
 This section explains the way in which the general health care market is an imperfect market and that, even in the context of such market imperfections, spending on drugs defies rationality. Finally,this section introduces the Pharmacy Benefit Manager, a main actor in thehealth care space and one who plays a key role in rising prices.           
 
 ### Branded Prescription Drugs      
-arduous （艰巨的）  pediatric （儿科）  recoupment （补偿）  be subsidized by (受...资助)     insulate ... from ...（从...隔离...）  legislative（立法）               
+arduous （艰巨的）  pediatric （儿科）  recoupment （补偿）  be subsidized by (受...资助)     insulate ... from ...（从...隔离...）  legislative（立法）  leverage（利用）       
+Or more Colloquially 或者更通俗地说          
 药物市场是一个非典型市场，信息不全面，受人物心理因素影响大       
 药厂的利润主要来源于已有药物价格的上涨，而不是新药或者增加药物销量           
 
@@ -42,4 +43,7 @@ arduous （艰巨的）  pediatric （儿科）  recoupment （补偿）  be sub
 ### What will work ?            
 
 
-## Conclusion
+## Conclusion    
+tinkering （修修补补）  make great strides in (在...方向上迈大步)      
+
+有很多团体希望药物的价格上涨，包括 PBMs, Pharmacist, Health Insurers, hospitals, doctors and patient advocacy groups，对 patients , government 和 taxpayers 造成很大的伤害,同时也造成了 competition-free 的局面。      
