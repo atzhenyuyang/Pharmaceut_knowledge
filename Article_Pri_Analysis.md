@@ -15,7 +15,8 @@ arduous （艰巨的）  pediatric （儿科）  recoupment （补偿）  be sub
 Or more Colloquially 或者更通俗地说          
 药物市场是一个非典型市场，信息不全面，受人物心理因素影响大       
 药厂的利润主要来源于已有药物价格的上涨，而不是新药或者增加药物销量           
-
+Health Plan 很难找出单个药物的价格 That information is tucked within the folds of complex data and contractual calculations         
+在充分竞争的情况下，价格降低会实现，但是现在的情况不是这样
 
 ### Rebates and Reimbursement: The Byzantine World of Drug Sales           
 
